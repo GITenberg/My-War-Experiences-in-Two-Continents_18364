@@ -1,0 +1,34 @@
+_repo: My-War-Experiences-in-Two-Continents_18364
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Macnaughtan, S. (Sarah)
+    alias: Macnaughtan, Sarah Broom
+    birthdate: 1864
+    deathdate: 1916
+    gutenberg_agent_id: '31758'
+    url: http://www.gutenberg.org/2009/agents/31758
+  editor:
+    agent_name: Salmon, Betty Keays-Young
+    gutenberg_agent_id: '7972'
+    url: http://www.gutenberg.org/2009/agents/7972
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2006-05-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18364'
+  lccn: '19008145'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Hospitals, charities, etc.'
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Personal narratives, English'
+title: My War Experiences in Two Continents
+url: http://www.gutenberg.org/ebooks/18364
